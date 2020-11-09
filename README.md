@@ -1,2 +1,2 @@
-# Alt Web Assignment 2
+# Alt Web Assignment 1
 Employee Weekly Compensation Calculator Application
